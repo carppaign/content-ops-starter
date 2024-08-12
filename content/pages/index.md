@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: For your business to be
+      text: For your business to be efficient
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
