@@ -10,7 +10,7 @@ sections:
     subtitle: Berry Music
     text: >
       We have futuristic technologies that allow clients' demand to be real just
-      in time, in cost. 
+      in time.
     actions:
       - label: Get started
         altText: ''
